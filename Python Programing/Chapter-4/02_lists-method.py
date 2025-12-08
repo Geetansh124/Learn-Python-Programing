@@ -31,3 +31,6 @@ print(l1)
 
 value = l1.pop(2)
 print(value)
+
+
+Geetansh
