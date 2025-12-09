@@ -18,14 +18,18 @@ print(friends)
 l1 = [1,3,34,54,6,5,44,66,87]
 l1.sort()
 print(l1)
+
 l1.reverse()
 print(l1)
 l1.sort()
 print(l1)
+
 l1.append("Python")
 print(l1)
+
 l1.insert(2,4)
 print(l1)
+
 l1.pop(4)
 print(l1)
 
