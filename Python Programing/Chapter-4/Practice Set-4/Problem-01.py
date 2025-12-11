@@ -1,28 +1,28 @@
 fruits = []
 
 
-f1 = input("Enter fruits name :"  )
+f1 = input("Enter fruits name 1:"  )
 fruits.append(f1)
 
-f2 = input("Enter fruits name :"  )
+f2 = input("Enter fruits name 2:"  )
 fruits.append(f2)
 
-f3 = input("Enter fruits name :"  )
+f3 = input("Enter fruits name 3:"  )
 fruits.append(f3)
 
-f4 = input("Enter fruits name :"  )
+f4 = input("Enter fruits name 4:"  )
 fruits.append(f4)
 
-f5 = input("Enter fruits name :"  )
+f5 = input("Enter fruits name 5:"  )
 fruits.append(f5)
  
-f6 = input("Enter fruits name :"  )
+f6 = input("Enter fruits name 6:"  )
 fruits.append(f6)
 
-f7 = input("Enter fruits name :"  )
+f7 = input("Enter fruits name 7:"  )
 fruits.append(f7)
 
-f8 = input("Enter fruits name :"  )
+f8 = input("Enter fruits name 8:"  )
 fruits.append(f8)
 
 print(fruits)
