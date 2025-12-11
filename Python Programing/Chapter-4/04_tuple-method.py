@@ -11,6 +11,15 @@ print(a.index(23.6))
 i = a.index("Rohan")
 print(i)
 
-i2 = a.list()
-print(i2)
-print(1)
+my_tuple = (1,5,6,7)
+print(6 in my_tuple)
+print(2 in my_tuple)
+
+
+
+
+n = (21,54,95,4,3)
+print(len(n))
+a,b,c,d,e = n
+
+print(a,b,c,d,e)
